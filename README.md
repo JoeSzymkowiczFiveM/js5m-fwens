@@ -1,4 +1,4 @@
-![e3ce771c98f21f36cd680a690aae026f1fed048a](https://github.com/JoeSzymkowiczFiveM/js5m-fwens/assets/70592880/c3ac14d3-bdaf-477a-ab80-d62a44a3bc76)
+![image](https://github.com/JoeSzymkowiczFiveM/js5m-fwens/assets/70592880/3dc67891-fef9-45ee-96ef-0f76320bb826)
 
 I saw [this](https://forum.cfx.re/t/paid-standalone-headfriend-gta-hub-inspired-friend-system/5102111) yesterday and decided to remake it and post it for free. The idea is kind of interesting, but I couldn't imagine selling it, much less selling it as escrowed. This whole thing is a meme, and is 95% made up of free resources made by others. Honestly, this seems like a waste of CPU cycles and you should save the disk space by not even bothering downloading this.
 
